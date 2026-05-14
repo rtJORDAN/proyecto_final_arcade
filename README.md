@@ -323,6 +323,12 @@ Durante este proyecto se utilizaron:
 
 ---
 
+# Presentación del Proyecto
+
+https://canva.link/bsh141xc5rud5fc
+
+---
+
 # 📚 Recursos utilizados
 
 ### Java CSV
