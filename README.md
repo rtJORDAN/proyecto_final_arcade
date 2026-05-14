@@ -22,11 +22,11 @@ Además incluye funcionalidades extra como ranking de jugadores y un Easter Egg 
 
 # 👥 Integrantes del equipo
 
-| Nombre | GitHub |
-|----------|----------|
-| Jordan Restrepo Tobón |
-| Felipe Londoño Ospina |
-| Juan Andres Vallejo Orozco |
+Jordan Restrepo Tobon
+
+Felipe Londoño Ospina
+
+Juan Andres Vallejo Orozco
 
 ---
 
