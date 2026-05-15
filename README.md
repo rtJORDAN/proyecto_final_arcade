@@ -1,5 +1,6 @@
 # 🎰 PROYECTO FINAL — THE LUCKY ARCADE
 
+
 ## 📌 Descripción del proyecto
 
 The Lucky Arcade es un simulador de máquina tragamonedas desarrollado en Java como proyecto final del curso. El sistema permite administrar jugadores, guardar saldos utilizando archivos CSV y ejecutar una máquina tragamonedas basada en matrices 3x3 con premios, animaciones y eventos especiales.
