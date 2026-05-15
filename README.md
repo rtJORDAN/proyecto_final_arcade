@@ -54,7 +54,7 @@ Crear un casino en consola con persistencia de saldo para cada jugador, utilizan
 
 ✅ Premios diagonales
 
-✅ Multiplicadores
+✅ Multiplicadores 
 
 ✅ Menú interactivo
 
