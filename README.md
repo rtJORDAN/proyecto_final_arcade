@@ -323,7 +323,7 @@ Durante este proyecto se utilizaron:
 
 ---
 
-# ✨ Presentación del Proyecto
+# ✨ Presentación del proyecto 
 
 https://canva.link/bsh141xc5rud5fc
 
