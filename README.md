@@ -24,7 +24,7 @@ Además incluye funcionalidades extra como ranking de jugadores y un Easter Egg 
 
 Jordan Restrepo Tobon
 
-Felipe Londoño Ospina
+Felipe Londoño Ospina 
 
 Juan Andrés Vallejo Orozco
 
