@@ -22,7 +22,7 @@ Además incluye funcionalidades extra como ranking de jugadores y un Easter Egg 
 
 # 👥 Integrantes del equipo
 
-Jordan Restrepo Tobon
+Jordan Restrepo Tobón 
 
 Felipe Londoño Ospina 
 
