@@ -26,7 +26,7 @@ Jordan Restrepo Tobón
 
 Felipe Londoño Ospina 
 
-Juan Andrés Vallejo Orozco
+Juan Andrés Vallejo Orozco 
 
 ---
 
